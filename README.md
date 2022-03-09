@@ -1,7 +1,5 @@
 # SOS-Multiserviços
-Protótipo de telas navegáveis do  App SOS Multiserviços
-
-[Modelo de Especificação de Requisitos.pptx](https://github.com/andredeve/SOS-App/files/8094084/Modelo.de.Especificacao.de.Requisitos.pptx)
+Aplicativo SOS Multiserviços Express
 
 Google Play Store: https://play.google.com/store/apps/details?id=com.andreluizzz299.soscliente&hl=pt_BR
 
